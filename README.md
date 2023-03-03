@@ -40,4 +40,4 @@ For scripting langages, I like to have [<img src="https://img.shields.io/badge/p
 
 ### So that's basically who I am. 
 
-Feel free to follow my github page and reach to me if you want to. You can always contact me at [this email address](mingfamily@hotmail.com.hk). See you around~~ 
+Feel free to follow my github page and reach to me if you want to. You can always contact me at [this email address](mailto:mingfamily@hotmail.com.hk). See you around~~ 
